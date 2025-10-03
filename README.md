@@ -1,5 +1,5 @@
 # Privacy Policy
-Last updated: 18th September 2025
+Last updated: 03 October 2025
 
 ## 1. Information We Collect
 TourTrail collects the following information to provide you with personalised walking tours:
